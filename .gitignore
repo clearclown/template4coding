@@ -1,0 +1,15 @@
+# https://github.com/github/gitignore 参照
+
+.env
+
+cursor/
+vscode/
+
+__pycache__/
+*__pycache__*
+*.pyc
+*.pyo
+*pyd
+*.db
+test/
+backup/
